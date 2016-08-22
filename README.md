@@ -25,7 +25,7 @@ If you don't already have an account with Github, you can sign up for one for fr
 
 ## Using Issues
 
-![issues](/issues.jpg)
+![issues](images/issues.jpg)
 
 ### Accessing issues
 
