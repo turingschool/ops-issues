@@ -27,12 +27,24 @@ If you don't already have an account with Github, you can sign up for one for fr
 
 ![issues](images/issues.jpg)
 
-### Accessing issues
+![closed](images/index.jpg)
 
-### Labels
+![closed](images/filter.jpg)
+
+![closed](images/closed.jpg)
 
 ### Creating an Issues
 
+![issues](images/new-issue.jpg)
+
+![issues](images/create1.jpg)
+
+![issues](images/create-labels.jpg)
+
+![issues](images/assign-issue.jpg)
+
+![issues](images/create-at-mention.jpg)
+
 ### Commenting on Issues
 
-### Tagging Other Users and Assigning Issues
+![issues](images/comments.jpg)
