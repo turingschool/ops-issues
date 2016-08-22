@@ -2,11 +2,9 @@
 
 A location for 'to dos' for staff and students regarding physical office locations and ops tickets.
 
-Students can report a broken toilet.
-
-Staff can update status on a broken toilet.
-
-And students and staff can see the progress on the broken toilet issue.
+- Students can report a broken toilet.
+- Staff can update status on a broken toilet.
+- And students and staff can see the progress on the broken toilet issue.
 
 ## Set Up
 
