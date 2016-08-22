@@ -25,26 +25,46 @@ If you don't already have an account with Github, you can sign up for one for fr
 
 ## Using Issues
 
+- You can find issues in the issues tab of this repo
+
 ![issues](images/issues.jpg)
+
+- Tab has an index view
 
 ![closed](images/index.jpg)
 
+- You can filter issues by label
+
 ![closed](images/filter.jpg)
+
+- And even view closed issues
 
 ![closed](images/closed.jpg)
 
 ### Creating an Issues
 
+- You can create issues here
+
 ![issues](images/new-issue.jpg)
 
-![issues](images/create1.jpg)
+- Issues have a title and a description
+
+![issues](images/create-1.jpg)
+
+- You can attach labels to the issue
 
 ![issues](images/create-labels.jpg)
 
+- You can assign the issue to specific users - this is optional
+
 ![issues](images/assign-issue.jpg)
+
+- You can @ mention users to tag them in an issue
 
 ![issues](images/create-at-mention.jpg)
 
 ### Commenting on Issues
+
+- You are able to leave comments on issues
 
 ![issues](images/comments.jpg)
